@@ -2,7 +2,8 @@
 CMakeFiles/
 savedImages/
 cmake_install.cmake
-*.txt
+CMakeCache.txt
+
 Makefile
 startProject
 .DS_Store
