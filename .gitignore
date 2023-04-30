@@ -1,0 +1,12 @@
+.vscode/
+CMakeFiles/
+savedImages/
+cmake_install.cmake
+*.txt
+Makefile
+startProject
+.DS_Store
+FeatureVector_DB.txt
+trainingSet/
+*.pdf
+ReportFiles/
